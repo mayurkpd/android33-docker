@@ -7,7 +7,7 @@ A prebuilt Docker image designed for Android development and CI/CD pipelines. In
 - Android SDK Platform 33
 - Build Tools 33.0.2
 - OpenJDK 17
-- Python 3.7 (with pip and distutils)
+- Python 3.7 (with pip + distutils + Google APIs support)
 - Node.js 18
 
 ## 📦 Docker Image
