@@ -1,12 +1,16 @@
-# Android Dev Environment Docker Image
+# Android CI Docker Image
 
-Docker image with:
-- Android SDK 33 & Build Tools 33.0.2
-- Java 17
+A prebuilt Docker image designed for Android development and CI/CD pipelines. Includes Android SDK 33, Java 17, Python 3.7, and Node.js 18.
+
+## ✅ What's Included
+
+- Android SDK Platform 33
+- Build Tools 33.0.2
+- OpenJDK 17
+- Python 3.7 (with pip and distutils)
 - Node.js 18
-- Python 3.7 (with pip + Google APIs support)
 
-## Usage
+## 📦 Docker Image
 
 ```bash
-docker pull mayurff/android33_py37_j17_n18:v2
+docker pull mayurff/androidSdk_api33-py37-j17-n18:v2
