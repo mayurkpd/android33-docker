@@ -1,0 +1,6 @@
+# Always use LF for Docker and shell scripts
+Dockerfile text eol=lf
+*.sh text eol=lf
+
+# Normalize Markdown files (optional)
+*.md text
