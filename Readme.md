@@ -12,5 +12,8 @@ A prebuilt Docker image designed for Android development and CI/CD pipelines. In
 
 ## 📦 Docker Image
 
+https://hub.docker.com/r/mayurff/android33_py37_j17_n18
+
 ```bash
-docker pull mayurff/androidSdk_api33-py37-j17-n18:v2
+docker pull mayurff/android33_py37_j17_n18:v2
+
